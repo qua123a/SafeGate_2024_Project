@@ -1,5 +1,3 @@
-# SafeGate_2024_Write_Up
-SafeGate_2024_Write_Up
 ![SCS_Write_Up](https://play-lh.googleusercontent.com/i2-YqJLMbxRY6B7lHvPtA6nIGqnomxpheY0jVGCsN-OyThBIr8OEookmGrK7qK5BBlI=w240-h480-rw)
 
 <div align = "center"> <h1> SCS_Write_Up </h1> 

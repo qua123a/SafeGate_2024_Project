@@ -1,5 +1,5 @@
 <div align = "center"> <h1> SCS_Write_Up </h1> 
-Bộ sưu tập các ghi chú, danh sách kiểm tra, bài viết về các cuộc thi CTF của team
+Nơi lưu giữ về các bài viết của team khi tham gia chơi CTF
   
 <p align="center">
   <br>

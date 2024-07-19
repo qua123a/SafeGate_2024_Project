@@ -1,0 +1,14 @@
+1. Cài đặt Apache netbeans IDE 21, jdk22, mysql 8.0.17, Apache tomcat10 - kết nối với Apache Netbeans
+2. Cài các thư viện trên web(nếu chưa có):
+	1. "jakarta.activation-2.0.0.jar"
+        2. "jarkata.el-api-4.0.0.jar"
+        3. "jakarta.servlet-api-5.0.0.jar"
+        4. "jakarta-servlet.jsp.jstl-2.0.0.jar"
+        5. "jakarta.xml.bind-api-3.0.0.jar"
+        6. "mysql-connector-java-8.0.17"
+        7. "slf4j-api-2.0.7.jar"
+	8. "jakarta-servlet.jsp.jstl-api-2.0.0.jar"
+3. Execute file cuongstore.sql trên mysql
+4. Trong src/java/dao/DBContext sửa user/password thành user/password trong mysql trên máy.
+5. Open Project KuongStore trong Apache Netbeans, chuột phải chọn Deploy, nhập username/password của tomcat
+6. Truy cập vào http://localhost:8080/KuongStore/ và test thử tính năng của web (cổng tuỳ chỉnh với tomcat đã cài, ở đây là 8080)

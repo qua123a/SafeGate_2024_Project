@@ -1,4 +1,4 @@
-1: Install Apache Netbeans IDE
+1: Install Apache Netbeans IDE <br>
 2: Install Apache Tomcat 10.0.18
 3: Install MySQL Workbench 8.0
 4: Clone my project from this git and Open it in Netbeans

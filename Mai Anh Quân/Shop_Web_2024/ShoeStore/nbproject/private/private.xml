@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/AdminLogOutServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/contact.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/loginFailed.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/checkout.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/ProductServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/LoginServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/DeleteUserServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/registerFailed.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/FeedbackServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/EditProductServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/DB/DBContext.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/about.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/register.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/AddUserServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/Product.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/css/styles.css</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/AddProductServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/userDashboard.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/index.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/LogoutServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/EditUserServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/src/java/com/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/admin/Documents/ShoeStore/web/qrcode.jsp</file>
+        </group>
+    </open-files>
+</project-private>

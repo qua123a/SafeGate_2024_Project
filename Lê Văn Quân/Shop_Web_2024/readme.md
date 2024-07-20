@@ -4,4 +4,4 @@
 4: Clone my project from this git and Open it in Netbeans<br>
 5: Edit your own MySQL Database account and password in DBContext.java in DAO package<br>
 6: Deploy the project<br>
-7: Open any browser and search this URL: http://localhost:8099/huhu/index<br>
+7: Open any browser and search this URL: http://localhost:8080/huhu/<br>

@@ -1,4 +1,4 @@
-Bước 1 Cài đặt Apache Netbeans IDE 21, JDK 22
+Bước 1 Cài đặt Apache Netbeans IDE 21, JDK 22 <br>
 Bước 2 Cài đặt Apache Tomcat 10
 Bước 3 Cài đặt MySQL Workbench 8.0
 Bước 4 Clone project từ git và mở nó trong Netbeans, thêm các lib cần thiết (nếu chưa có)

@@ -6,7 +6,7 @@ Step 3: Install MySQL Workbench 8.0
 <br>
 Step 4: Clone my project from this git and Open it in Netbeans
 <br>
-Step 5: Edit the MySQL Database account and password in DBContext.java file in DAO package
+Step 5: Edit your own MySQL Database account and password in DBContext.java in DAO package
 <br>
 Step 6: Deploy the project
 <br>

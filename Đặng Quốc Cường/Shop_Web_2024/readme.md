@@ -5,4 +5,4 @@ Bước 4 Clone project từ git và mở nó trong Netbeans, thêm các lib c�
 Bước 5 Trong srcjavadaoDBContext sửa userpassword thành userpassword trong mysql <br>
 Bước 6 Execute file cuongstore.sql <br>
 Bước 7 Deploy project userpassword là userpassword trên tomcat <br>
-Bước 8 Mở trình duyệt và tìm kiếm URL httplocalhost8080KuongStore và trải nghiệm web bán sách của KuongStore <br>
+Bước 8 Mở trình duyệt và tìm kiếm URL http://localhost:8080/KuongStore và trải nghiệm web bán sách của KuongStore <br>
